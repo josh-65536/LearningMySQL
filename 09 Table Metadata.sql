@@ -1,0 +1,7 @@
+
+DESCRIBE country;
+
+SHOW TABLE STATUS;
+SHOW TABLE STATUS WHERE name = 'country';
+
+SHOW CREATE TABLE country;
