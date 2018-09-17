@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository is contains my progress in learning MySQL.
+This repository records my progress in learning MySQL.
 
 ## Requirements
 
